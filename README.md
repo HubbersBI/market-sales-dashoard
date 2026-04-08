@@ -13,7 +13,7 @@ Developed a singe-page interactive BI dashboard to answer key business questions
 [Dashboard](images/Dashboard.png)
 
 ## 📄 Documentation
-[Full Project Documentation](docs/BI_market.pdf)
+[Full Project Documentation](docs/BI_Market.pdf)
 
 ## 📄 Project Files
 [SQL File For Views](sql/SQLViews_Query.sql)
