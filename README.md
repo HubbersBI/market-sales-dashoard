@@ -1,4 +1,4 @@
-# Juuls Bikeshop 4 Page Sales Dashboard (Power BI)
+# Maven Market sales Dashboard (Power BI)
 
 ## 📊 Project Overview
 Developed a singe-page interactive BI dashboard to answer key business questions for a grocery retail company, simulating a consultant role
@@ -10,7 +10,7 @@ Developed a singe-page interactive BI dashboard to answer key business questions
   - Power Query (Data transformation)
 
 ## 📷 Dashboard Images
-[Dashboard](images/dashboard.png)
+[Dashboard](images/Dashboard.png)
 
 ## 📄 Documentation
 [Full Project Documentation](docs/BI_market.pdf)
