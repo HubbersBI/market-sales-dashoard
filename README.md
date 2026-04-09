@@ -1,7 +1,7 @@
 # Maven Market sales Dashboard (Power BI)
 
 ## 📊 Project Overview
-Developed a singe-page interactive BI dashboard to answer key business questions for a grocery retail company, simulating a consultant role
+Developed a singe-page interactive BI dashboard to answer business questions for a grocery retail company, simulating a consultant role
 
 ## 🛠 Tools Used
 - SQL (Data extraction & schema design)
